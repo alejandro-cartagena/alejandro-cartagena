@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Cartagena</h1>
 <h3 align="center">A passionate frontend developer based in Miami Beach</h3>
 
-<br>
-
 - 🔭 I’m currently working on... **Algorithms in Python**
 
 - 🌱 I’m currently learning... **API's in Javascript**
