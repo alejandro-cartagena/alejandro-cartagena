@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Cartagena</h1>
-<h3 align="center">A passionate frontend developer based in Miami Beach</h3>
+<h3 align="center">A passionate software developer based in Miami Beach</h3>
 
 - 🔭 I’m currently working on... **Algorithms in Python**
 
