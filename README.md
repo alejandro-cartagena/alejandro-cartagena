@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on... **Algorithms in Python**
 
-- 🌱 I’m currently learning... **React JS**
+- 🌱 I’m currently learning... **Express**
 
 - 👯 I’m looking to collaborate on... **Creating fullstack applications**
 
