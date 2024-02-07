@@ -9,13 +9,11 @@
 
 - 🤝 I’m looking for help with... **Landing a job!**
 
-- 👨‍💻 Most of my projects are available at... [https://portfolio-site-alejandro.netlify.app/](https://portfolio-site-alejandro.netlify.app/)
+- 👨‍💻 Most of my projects are available at... https://alejandro-portfolio-site.netlify.app/
 
 - 💬 Ask me about... **Web Development!**
 
 - 📫 How to reach me... **alejandrocartagena68@gmail.com**
-
-- 📄 My resume... [https://docs.google.com/document/d/1CKsX6iCdGFQpX5R96NXiEHIIRRggZ6eK1aLBp9Z382I/edit](https://docs.google.com/document/d/1CKsX6iCdGFQpX5R96NXiEHIIRRggZ6eK1aLBp9Z382I/edit)
 
 - ⚡ Fun fact... **I am from Honduras 🇭🇳**
 
