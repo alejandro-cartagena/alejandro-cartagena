@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with... **Landing a job!**
 
-- 👨‍💻 All of my projects are available at... [https://alejandro-portfolio-site.netlify.app/](https://alejandro-portfolio-site.netlify.app/)
+- 👨‍💻 All of my projects are available at... [https://alejandrosportfolio.netlify.app/)
 
 - 📫 How to reach me... **alejandrocartagena68@gmail.com**
 
