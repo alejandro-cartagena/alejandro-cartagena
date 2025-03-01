@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on... **Algorithms in Python**
 
-- 🌱 I’m currently learning... **Next.js**
+- 🌱 I’m currently learning... **PHP Laravel**
 
 - 👯 I’m looking to collaborate on... **Creating fullstack applications**
 
-- 🤝 I’m looking for help with... **Landing a job!**
-
-- 👨‍💻 All of my projects are available at... [https://alejandrosportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at... [https://alejandroecartagena.com/)
 
 - 📫 How to reach me... **alejandrocartagena68@gmail.com**
 
